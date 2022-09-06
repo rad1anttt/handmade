@@ -41,7 +41,7 @@ body {
     width: 352px;
     height: 536px;
     background-repeat: no-repeat;
-    background-image: url(/img/Rectangle\ 1.png);
+    background-image: url(img/Rectangle\ 1.png);
     background-size: cover;
     position: absolute;
     left: 38px;
@@ -169,7 +169,7 @@ body {
     appearance: none;
     -webkit-appearance: none;
     -moz-appearance: none;
-    background-image: url(/img/Polygon\ 1.svg);
+    background-image: url(img/Polygon\ 1.svg);
     background-repeat: no-repeat;
     background-position: 98% center;
  }
